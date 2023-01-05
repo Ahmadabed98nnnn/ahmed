@@ -10,7 +10,7 @@ using namespace std;
 #include<mmsystem.h>
 #include<math.h>
 #include<utility>
-
+//5
 #include<string>
 
 int delay = 1000 / 75;
