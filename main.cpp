@@ -30,7 +30,7 @@ float eyeZ = -0.5;
 float upX = 0;
 float upY = 1;
 float upZ = 0;
-//8
+
 float shiftworldX = 0;
 float shiftworldY = 0;
 float shiftworldZ = 0;
